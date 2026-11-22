@@ -21,7 +21,7 @@ It contains my university assignments, programming exercises, practical laborato
 - Cybersecurity
 - Malware Analysis
 - Network Security
-- Database Management
+- Data Structure & Pattern
 - Web and Application Development
 
 ## Repository Structure
