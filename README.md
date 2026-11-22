@@ -10,7 +10,6 @@ It contains my university assignments, programming exercises, practical laborato
 
 - **Degree:** Bachelor of Computer Science
 - **University:** Swinburne University of Technology
-- **Campus:** Sarawak, Malaysia
 - **Study Area:** Software Development and Cybersecurity
 
 ## Areas of Study
